@@ -1,6 +1,3 @@
-Here is the complete `README.md` content, written in a single page format:
-
-```markdown
 # Job Portal Application
 
 This is a **Job Portal Web Application** built using **Spring Boot**, **Java**, **JSP**, **Spring Data JPA**, and **MySQL/PostgreSQL**. The platform allows users to create accounts, log in, and apply for job listings. Employers can post job openings for users to browse and apply. The application also uses **Spring Security** for secure login and authentication.
